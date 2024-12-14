@@ -10,3 +10,4 @@ This file contains some basic HTML.
 * Italics (using `<em>`)
 * Lists (Ordered and Unordered)
 * Links (Absolute and Relative)
+* Images (Absolute and Relative)
