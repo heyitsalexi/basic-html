@@ -9,3 +9,4 @@ This file contains some basic HTML.
 * Bold (using `<strong>`)
 * Italics (using `<em>`)
 * Lists (Ordered and Unordered)
+* Links (Absolute and Relative)
